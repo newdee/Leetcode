@@ -2,3 +2,6 @@
 - [865.Smallest Subtree with all the Deepest Nodes](/865_Smallest_Subtree_with_all_the_Deepest_Nodes.md)
 - [866.Prime Palindrome](/866_Prime_Palindrome.md)
 - [867.transpose](/867_transpose.md)
+- [914.of a Kind in a Deck of Cards](/914.of_a_Kind_in_a_Deck_of_Cards.md)
+- [915.Partition Array into Disjoint Intervals](/915.Partition_Array_into_Disjoint_Intervals.md)
+- [916.Word Subsets](/916.Word_Subsets.md)
