@@ -1,3 +1,6 @@
+- [832,Flipping an Image](/832.Flipping_an_Image.md)
+- [833.Find And Replace in String](/833.Find_And_Replace_in_String.md)
+- [835,Image Overlap](/835.Image_Overlap.md)
 - [864.Shortest Path to Get All Keys](/864_Shortest_Path_to_Get_All_Keys.md)
 - [865.Smallest Subtree with all the Deepest Nodes](/865_Smallest_Subtree_with_all_the_Deepest_Nodes.md)
 - [866.Prime Palindrome](/866_Prime_Palindrome.md)
