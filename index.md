@@ -1,10 +1,12 @@
+title: Leetcode Index
+---
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
 - [830.Position of Large Groups](/830.position_of_large_groups.md)
 - [831.Masking Personal Information](/831.masking_personal_information.md)
 - [832,Flipping an Image](/832.Flipping_an_Image.md)
 - [833.Find And Replace in String](/833.Find_And_Replace_in_String.md)
 - [835,Image Overlap](/835.Image_Overlap.md)
-- [835.Shifting Letters](/848.shifting_letters.md)
+- [848.Shifting Letters](/848.shifting_letters.md)
 - [849.Maximize Distance to Closest Person](/849.maximize_distance_to_closest_person.md)
 - [852.Peak Index in A Mountain Array](/852.Peak_Index_in_A_Mountain_Array.md)
 - [853.Car Fleet](/853.Car_Fleet.md)
@@ -13,6 +15,8 @@
 - [865.Smallest Subtree with all the Deepest Nodes](/865_Smallest_Subtree_with_all_the_Deepest_Nodes.md)
 - [866.Prime Palindrome](/866_Prime_Palindrome.md)
 - [867.transpose](/867_transpose.md)
+- [896.monotonic array](/896.monotonic_array.md)
+- [897.increasing order search tree](/897.increasing_order_search_tree.md)
 - [900.RLE Iterator](/900.rle_iterator.md)
 - [901.Online Stock Span](/901.online_stock_span.md)
 - [913.Cat and Mouse](/913.Cat_and_Mouse.md )
