@@ -1,4 +1,4 @@
-title: Leetcode Index
+Leetcode Index
 ---
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
 - [830.Position of Large Groups](/830.position_of_large_groups.md)
