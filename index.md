@@ -24,3 +24,5 @@ Leetcode Index
 - [914.of a Kind in a Deck of Cards](/914.of_a_Kind_in_a_Deck_of_Cards.md)
 - [915.Partition Array into Disjoint Intervals](/915.Partition_Array_into_Disjoint_Intervals.md)
 - [916.Word Subsets](/916.Word_Subsets.md)
+- [941.Valid Mountain Array](/941.valid_mountain_array.md)
+- [942.Di String Match](/942.di_string_match.md)
