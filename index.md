@@ -28,6 +28,4 @@ Leetcode Index
 - [942.Di String Match](/942.di_string_match.md)
 - [944.Delete Column to Make Sorted](/944.delete_column_to_make_sorted.md)
 
-<center>
-[Back to Home](https://newdee.cf)
-</center>
+- [Back to Home](https://newdee.cf)
