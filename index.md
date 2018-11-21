@@ -20,6 +20,8 @@ Leetcode Index
 - [897.increasing order search tree](/897.increasing_order_search_tree.md)
 - [900.RLE Iterator](/900.rle_iterator.md)
 - [901.Online Stock Span](/901.online_stock_span.md)
+- [908.Smallest Range I](/908.smallest_range_i.md)
+- [910.Smallest Range II](910.smallest_range_ii.md)
 - [913.Cat and Mouse](/913.Cat_and_Mouse.md )
 - [914.of a Kind in a Deck of Cards](/914.of_a_Kind_in_a_Deck_of_Cards.md)
 - [915.Partition Array into Disjoint Intervals](/915.Partition_Array_into_Disjoint_Intervals.md)
