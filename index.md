@@ -29,5 +29,5 @@ Leetcode Index
 - [941.Valid Mountain Array](/941.valid_mountain_array.md)
 - [942.Di String Match](/942.di_string_match.md)
 - [944.Delete Column to Make Sorted](/944.delete_column_to_make_sorted.md)
-
+- [ByteDance](/bytedance.md)
 - [--Back to Home--](https://newdee.cf)
