@@ -271,3 +271,74 @@ public:
     }
 };
 ```
+
+###  简化路径
+
+> 给定一个文档 (Unix-style) 的完全路径，请进行路径简化。
+
+```
+例如，
+path = "/home/", => "/home"
+path = "/a/./b/../../c/", => "/c"
+
+边界情况:
+
+你是否考虑了 路径 = "/../" 的情况？
+在这种情况下，你需返回 "/" 。
+此外，路径中也可能包含多个斜杠 '/' ，如 "/home//foo/" 。
+在这种情况下，你可忽略多余的斜杠，返回 "/home/foo" 。
+```
+方法： 路径可以按“/”来分段处理。首先将字符串中每个以"/"结尾的子串压入到一个向量中。如果最后一个路径后没有加"/"，也压入向量中。然后对每个向量元素进行处理
+- 如果有路径名为"./"或者"/"，则直接将该元素赋值为空，如果有路径名为"."（通常是结尾），也是一样的处理。
+- 如果有路径名为"../"或者".."（通常这个也是结尾），则往前回溯，如果遇到不为空的元素，将该元素和目前的路径名清空。（只能回溯到索引为1处，根目录不能清空）如果回溯完是根目录，则只清空目前路径名。
+- 然后将向量中所有非空元素加到结果字符串中。
+- 判断结尾字符是否为"/"，如果是，则删除结尾的“/”。
+- 返回结果字符串。
+
+```
+class Solution {
+public:
+    string simplifyPath(string path) {
+        vector<string> tmp;
+        int st=0;
+        for(int i=0;i<path.length();i++)
+        {
+            if(path[i]=='/') {
+                tmp.push_back(path.substr(st,i+1-st));
+                st=i+1;
+            }
+                
+        }
+        if(st<path.length())
+            tmp.push_back(path.substr(st,path.length()-st));
+        string result;
+        for(int i=1;i<tmp.size();i++)
+        {
+            if(tmp[i] == "./" || tmp[i] == "."||tmp[i]=="/") tmp[i]="";
+            if(tmp[i] == "../" || tmp[i] == "..")
+            {
+                int k=i-1;
+                while(k>0 && tmp[k]=="")
+                {
+                    k--;
+                }
+                if(k>0) tmp[k]="";
+                tmp[i]="";
+            }
+
+        }
+        for(int i=0;i<tmp.size();i++)
+        {
+            if(tmp[i]!="")
+                result +=tmp[i];
+        }
+        while(result[result.length()-1]=='/')
+        {
+            if(result.length()>1)
+            result.erase(result.length()-1,1);
+            else return result;
+        }
+        return result;
+    }
+};
+```
