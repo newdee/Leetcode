@@ -342,3 +342,62 @@ public:
     }
 };
 ```
+
+### 复原IP地址
+> 给定一个只包含数字的字符串，复原它并返回所有可能的 IP 地址格式。
+
+```
+示例:
+
+输入: "25525511135"
+输出: ["255.255.11.135", "255.255.111.35"]
+```
+
+方法：ip地址每一段范围是0-255，也就是1-3位数字，逐个循环判断。如果是有效IP，则压入向量中。  
+- 判断是否有效的函数：首先看，每一段地址长度是否大于1，如果大于1，且开头是0的IP属于无效IP直接返回false。然后将IP转为长整型(最大可能有10位)，然后看每一位范围是否大于255，如果大于直接返回false。循环结束，返回true。
+- 标准化输出结果，将IP写为数字加'.'的形式输出。  
+```
+class Solution {
+public:
+    vector<string> restoreIpAddresses(string s) {
+        vector<string> res;
+        vector<string> tmp(4,"");
+        int l=s.length();
+
+            for(int i=1;i<4;i++)
+            {
+
+                    for(int j=1;j<4;j++)
+                    {
+                            for(int k=1;k<4;k++)
+                            {
+                                if(i+j+k<l){
+                                tmp[0]=s.substr(0,i);
+                                tmp[1]=s.substr(i,j);
+                                tmp[2]=s.substr(i+j,k);
+                                tmp[3]=s.substr(i+j+k,l-i-j-k);
+                                if(isvalid(tmp)) res.push_back(ip(s,i,j,k));
+                            }
+                            }
+                        }
+                    }
+        return res;
+
+    }
+private:
+    bool isvalid(vector<string> t)
+    {
+        for(int i=0;i<4;i++)
+            if(t[i].length()>1 && t[i][0]=='0') return false;
+        for(int i=0;i<4;i++)
+            if(atol(t[i].c_str())>255) return false;
+        return true;
+    }
+    string ip(string s,int i, int j, int k)
+    {
+        string result;
+        result = s.substr(0,i)+'.'+s.substr(i,j)+'.'+s.substr(i+j,k)+'.'+s.substr(i+j+k,s.length()-i-j-k);
+        return result;
+    }
+};
+```
