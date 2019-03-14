@@ -1,5 +1,8 @@
 Leetcode Index
 ---
+- [88.Merge Sorted Array](/88.merge_sorted_array.md)
+- [169.Majority Element](/169.majority_element.md)
+- [240.Search a 2D Matrix II](/240.search_a_2d_matrix_ii.md)
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
 - [830.Position of Large Groups](/830.position_of_large_groups.md)
 - [831.Masking Personal Information](/831.masking_personal_information.md)
@@ -16,6 +19,7 @@ Leetcode Index
 - [866.Prime Palindrome](/866_Prime_Palindrome.md)
 - [867.transpose](/867_transpose.md)
 - [884.Uncommon Words from Two Sentences](/884.uncommon_words_from_two_sentences.md)
+- [887.Super Egg Drop](/887.Super_Egg_Drop.md)
 - [896.monotonic array](/896.monotonic_array.md)
 - [897.increasing order search tree](/897.increasing_order_search_tree.md)
 - [900.RLE Iterator](/900.rle_iterator.md)
