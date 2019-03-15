@@ -3,6 +3,7 @@ Leetcode Index
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
 - [125.Valid Palindrome](/125.valid_palindrome.md)
 - [131.Palindrome Partitioning](/131.palindrome_partitioning.md)
+- [139.Word Break](/139.word_break.md)
 - [169.Majority Element](/169.majority_element.md)
 - [240.Search a 2D Matrix II](/240.search_a_2d_matrix_ii.md)
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
