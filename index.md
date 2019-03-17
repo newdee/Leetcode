@@ -1,11 +1,16 @@
 Leetcode Index
 ---
+- [20.Valid Parentheses](/20.valid_parentheses.md)
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
+- [111.Minimum Depth of Binary Tree](/111.minimum_depth_of_binary_tree.md)
 - [125.Valid Palindrome](/125.valid_palindrome.md)
 - [131.Palindrome Partitioning](/131.palindrome_partitioning.md)
 - [139.Word Break](/139.word_break.md)
 - [169.Majority Element](/169.majority_element.md)
+- [172.Factorial Trailing Zeroes](/172.factorial_trailing_zeroes.md)
+- [195.Tenth Line](/195.tenth_line.md)
 - [240.Search a 2D Matrix II](/240.search_a_2d_matrix_ii.md)
+- [290.Word Pattern](/290.word_pattern.md)
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
 - [830.Position of Large Groups](/830.position_of_large_groups.md)
 - [831.Masking Personal Information](/831.masking_personal_information.md)
