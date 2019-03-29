@@ -95,4 +95,3 @@ Leetcode Index
 - [985.Sum of Even Numbers After Queries](/985.sum_of_even_numbers_after_queries.md)
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [ByteDance](/bytedance.md)
-- [--Back to Home--](https://newdee.cf)
