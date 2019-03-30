@@ -41,6 +41,7 @@ Leetcode Index
 - [557.Reverse Words in a String](/557.reverse_words_in_a_string.md)
 - [559.Maxmium Depth of N Ary Tree](/559.maxmium_depth_of_n_ary_tree.md)
 - [561.Array Partition I](/561.array_partiton_i.md)
+- [575.Distribute Candies](/575.distribute_candies.md)
 - [589.N Ary Tree Preorder Traversal](/589.n_ary_tree_preorder_traversal.md)
 - [590.N Ary Tree Postorder Traversal](/590.n_ary_tree_postorder_traversal.md)
 - [595.Big Countires](/595.big_countries.md)
