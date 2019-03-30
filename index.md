@@ -54,6 +54,7 @@ Leetcode Index
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
 - [771.Jewels and Stones](/771.jewels_and_stones.md)
 - [804.Unique Morse Code Words](/804.unique_morse_code_words.md)
+- [806.Number of Lines to Write String](/806.number_of_lines_to_write_string.md)
 - [811.Subdomain Visit Count](/811.subdomain_visit_count.md)
 - [821.Shortest Distance to a Character](/821.shortest_distance_to_a_character.md)
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
