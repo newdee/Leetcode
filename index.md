@@ -54,6 +54,7 @@ Leetcode Index
 - [657.Robot Return to Origin](/657.robot_return_to_origin.md)
 - [669.Trim a Binary Search Tree](/669.trim_a_binary_search_tree.md)
 - [682.Baseball Game](/682.baseball_game.md)
+- [693.Binary Number with Alternating Bits](/693.binary_number_with_alternating_bits.md)
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
 - [709.To Lower Case](/709.to_lower_case.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
