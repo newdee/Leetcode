@@ -81,6 +81,7 @@ Leetcode Index
 - [867.transpose](/867.transpose.md)
 - [884.Uncommon Words from Two Sentences](/884.uncommon_words_from_two_sentences.md)
 - [887.Super Egg Drop](/887.super_egg_drop.md)
+- [893.Groups of Special Equivalent Strings](/893.groups_of_special_equivalent_strings.md)
 - [896.monotonic array](/896.monotonic_array.md)
 - [897.increasing order search tree](/897.increasing_order_search_tree.md)
 - [900.RLE Iterator](/900.rle_iterator.md)
