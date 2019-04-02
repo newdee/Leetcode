@@ -59,6 +59,7 @@ Leetcode Index
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
 - [709.To Lower Case](/709.to_lower_case.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
+- [762.Prime Number of Set Bits in Binary Representation](/762.prime_number_of_set_bits_in_binary_representation.md)
 - [771.Jewels and Stones](/771.jewels_and_stones.md)
 - [804.Unique Morse Code Words](/804.unique_morse_code_words.md)
 - [806.Number of Lines to Write String](/806.number_of_lines_to_write_string.md)
