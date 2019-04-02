@@ -41,6 +41,7 @@ Leetcode Index
 - [463.Island Perimeter](/463.island_perimeter.md)
 - [476.Number Complement](/476.number_complement.md)
 - [482.License Key Formatting](/482.license_key_formatting.md)
+- [496.Next Greater Element I](/496.next_greater_element_i.md)
 - [500.Keyboard Row](/500.keyboard_row.md)
 - [509.Fibonacci Number](/509.fibonacci_number.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
