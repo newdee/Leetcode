@@ -85,6 +85,7 @@ Leetcode Index
 - [866.Prime Palindrome](/866.prime_palindrome.md)
 - [867.transpose](/867.transpose.md)
 - [876.Middle of the Linked List](/876.middle_of_the_linked_list.md)
+- [883.Projection Area of 3D Shapes](/883.projection_area_of_3d_shapes.md)
 - [884.Uncommon Words from Two Sentences](/884.uncommon_words_from_two_sentences.md)
 - [887.Super Egg Drop](/887.super_egg_drop.md)
 - [893.Groups of Special Equivalent Strings](/893.groups_of_special_equivalent_strings.md)
