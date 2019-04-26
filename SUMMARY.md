@@ -27,6 +27,7 @@ Leetcode Index
 - [232.Implement Queue Using Stack](/232.implement_queue_using_stack.md)
 - [237.Delete Node in a Linked List](/237.delete_node_in_a_linked_list.md)
 - [240.Search a 2D Matrix II](/240.search_a_2d_matrix_ii.md)
+- [257.Binary Tree Paths](/257.binary_tree_paths.md)
 - [258.Add Digits](/258.add_digits.md)
 - [290.Word Pattern](/290.word_pattern.md)
 - [282.Nim Game](/292.nim_game.md)
