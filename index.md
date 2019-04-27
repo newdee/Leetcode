@@ -105,6 +105,7 @@ Leetcode Index
 - [916.Word Subsets](/916.word_subsets.md)
 - [922.Sort Array by Parity II](/922.sort_array_by_parity_ii.md)
 - [929.Unique Email Address](/929.unique_email_address.md)
+- [938.Range Sum of BST](/938.range_sum_of_bst.md)
 - [941.Valid Mountain Array](/941.valid_mountain_array.md)
 - [942.Di String Match](/942.di_string_match.md)
 - [944.Delete Column to Make Sorted](/944.delete_column_to_make_sorted.md)
