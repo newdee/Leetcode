@@ -118,4 +118,5 @@ Leetcode Index
 - [985.Sum of Even Numbers After Queries](/985.sum_of_even_numbers_after_queries.md)
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [1002.Find Common Characters](/1002.find_common_characters.md)
+- [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
 - [ByteDance](/bytedance.md)
