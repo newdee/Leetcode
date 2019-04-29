@@ -23,6 +23,7 @@ Leetcode Index
 - [189.Rotate Array](/189.rotate_array.md)
 - [195.Tenth Line](/195.tenth_line.md)
 - [206.Reverse Linked List](/206.reverse_linked_list.md)
+- [225.Implement Stack Using Queues](/225.implement_queue_using_stacks.md)
 - [226.Invert Binary Tree](/226.invert_binary_tree.md)
 - [232.Implement Queue Using Stack](/232.implement_queue_using_stack.md)
 - [237.Delete Node in a Linked List](/237.delete_node_in_a_linked_list.md)
