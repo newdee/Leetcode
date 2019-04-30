@@ -90,6 +90,7 @@ Leetcode Index
 - [866.Prime Palindrome](/866.prime_palindrome.md)
 - [867.transpose](/867.transpose.md)
 - [868.Binary Gap](/868.binary_gap.md)
+- [872.Leaf Similar Trees](/872.leaf_similar_trees.md)
 - [876.Middle of the Linked List](/876.middle_of_the_linked_list.md)
 - [883.Projection Area of 3D Shapes](/883.projection_area_of_3d_shapes.md)
 - [884.Uncommon Words from Two Sentences](/884.uncommon_words_from_two_sentences.md)
