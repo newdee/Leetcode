@@ -119,4 +119,5 @@ Leetcode Index
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [1002.Find Common Characters](/1002.find_common_characters.md)
 - [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
+- [1025.Divisor Game](/1025.divisor_game.md)
 - [ByteDance](/bytedance.md)
