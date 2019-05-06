@@ -10,6 +10,7 @@ Leetcode Index
 - [108.Convert Sorted Array to Binary Search Tree](/108.convert_sorted_array_to_binary_search_tree.md)
 - [111.Minimum Depth of Binary Tree](/111.minimum_depth_of_binary_tree.md)
 - [118.Pascals Triangle](/118.pascals_triangle.md)
+- [119.Pascals Triangle II](/119.pascals_triangle_ii.md)
 - [125.Valid Palindrome](/125.valid_palindrome.md)
 - [131.Palindrome Partitioning](/131.palindrome_partitioning.md)
 - [139.Word Break](/139.word_break.md)
