@@ -80,6 +80,7 @@ Leetcode Index
 - [811.Subdomain Visit Count](/811.subdomain_visit_count.md)
 - [812.Largest Triangle Area](/812.largest_triangle_area.md)
 - [821.Shortest Distance to a Character](/821.shortest_distance_to_a_character.md)
+- [824.Goat Latin](/824.goat_latin.md)
 - [829.Consecutive Numbers Sum](/829.consecutive_numbers_sum.md)
 - [830.Position of Large Groups](/830.position_of_large_groups.md)
 - [831.Masking Personal Information](/831.masking_personal_information.md)
