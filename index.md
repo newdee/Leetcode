@@ -40,6 +40,7 @@ Leetcode Index
 - [374.Guess Number Higher or Lower](/374.guess_number_higher_or_lower.md)
 - [387.First Unique Character in a String](/387.first_unique_character_in_a_string.md)
 - [412.Fizz Buzz](/412.fizz_buzz.md)
+- [427.Construct Quad Tree](/427.construct_quad_tree.md)
 - [429.N Ary Tree Level Order Traversal](/429.n_ary_tree_level_order_traversal.md)
 - [438.Find All Anagrams in a String](/438.find_all_anagrams_in_a_string.md)
 - [461.Hamming Distance](/461.hamming_distance.md)
