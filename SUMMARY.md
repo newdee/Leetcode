@@ -3,6 +3,7 @@ Leetcode Index
 - [9.Palindrome Number](/9.palindrome_number.md)
 - [13.Roman to Integer](/13.roman_to_integer.md)
 - [20.Valid Parentheses](/20.valid_parentheses.md)
+- [27.Remove Element](/27.remove_element.md)
 - [66.Plus One](/66.plus_one.md)
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
 - [104.Maximum Depth of Binary Tree](/104.maximum_depth_of_binary_tree.md)
