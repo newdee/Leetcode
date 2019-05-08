@@ -37,6 +37,7 @@ Leetcode Index
 - [258.Add Digits](/258.add_digits.md)
 - [290.Word Pattern](/290.word_pattern.md)
 - [282.Nim Game](/292.nim_game.md)
+- [303.Range Sum Query Immutable](/303.range_sum_query_immutable.md)
 - [344.Reverse String](/344.reverse_string.md)
 - [349.Intersection of Two Arrays](/349.intersection_of_two_arrays.md)
 - [374.Guess Number Higher or Lower](/374.guess_number_higher_or_lower.md)
