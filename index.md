@@ -135,4 +135,5 @@ Leetcode Index
 - [1002.Find Common Characters](/1002.find_common_characters.md)
 - [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
 - [1025.Divisor Game](/1025.divisor_game.md)
+- [1030.Matrix Cells in Distance Order](/1030.matrix_cells_in_distance_order.md)
 - [ByteDance](/bytedance.md)
