@@ -125,6 +125,7 @@ Leetcode Index
 - [941.Valid Mountain Array](/941.valid_mountain_array.md)
 - [942.Di String Match](/942.di_string_match.md)
 - [944.Delete Column to Make Sorted](/944.delete_column_to_make_sorted.md)
+- [953.Verifying an Alien Dictionary](/953.verifying_an_alien_dictionary.md)
 - [961.N Repeated Element in Size 2N Array](/961.n_repeated_element_in_size_2n_array.md)
 - [965.Univalued Binary Tree](/965.univalued_binary_tree.md)
 - [976.Largest Perimeter Triangle](/976.largest_perimeter_triangle.md)
