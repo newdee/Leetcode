@@ -70,6 +70,7 @@ Leetcode Index
 - [682.Baseball Game](/682.baseball_game.md)
 - [693.Binary Number with Alternating Bits](/693.binary_number_with_alternating_bits.md)
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
+- [705.Design Hashset](/705.design_hashset.md)
 - [706.Design Hashmap](/706.design_hashmap.md)
 - [709.To Lower Case](/709.to_lower_case.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
