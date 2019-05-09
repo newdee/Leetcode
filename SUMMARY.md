@@ -22,7 +22,7 @@ Leetcode Index
 - [171.Excel Sheet Coulmn Number](/171.excel_sheet_column_number.md)
 - [172.Factorial Trailing Zeroes](/172.factorial_trailing_zeroes.md)
 - [175.Combine Two Tables](/175.combine_two_tables.md)
-- [181.Employee Earning More Than Their Managers](/181.employee_earning_more_than_their_managers.md)
+- [181.Employee Earning More Than Their Managers](/181.employees_earning_more_than_their_managers.md)
 - [182.Duplicate Emails](/182.duplicate_emails.md)
 - [183.Customers Who Never Order](/183.customers_who_never_order.md)
 - [189.Rotate Array](/189.rotate_array.md)
