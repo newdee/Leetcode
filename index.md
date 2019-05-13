@@ -139,4 +139,5 @@ Leetcode Index
 - [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
 - [1025.Divisor Game](/1025.divisor_game.md)
 - [1030.Matrix Cells in Distance Order](/1030.matrix_cells_in_distance_order.md)
+- [5055.Robot Bounded in Circle](/5055.robot_bounded_in_circle.md)
 - [ByteDance](/bytedance.md)
