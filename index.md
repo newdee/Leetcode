@@ -58,6 +58,7 @@ Leetcode Index
 - [509.Fibonacci Number](/509.fibonacci_number.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
 - [530.Minimum Absolute Difference in BST](/530.minimum_absolute_difference_in_bst.md)
+- [538.Convert BST to Greater Tree](/538.convert_bst_to_greater_tree.md)
 - [557.Reverse Words in a String](/557.reverse_words_in_a_string.md)
 - [559.Maxmium Depth of N Ary Tree](/559.maxmium_depth_of_n_ary_tree.md)
 - [561.Array Partition I](/561.array_partiton_i.md)
