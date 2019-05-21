@@ -29,6 +29,7 @@ Leetcode Index
 - [189.Rotate Array](/189.rotate_array.md)
 - [191.Number of 1 Bits](/191.number_of_1_bits.md)
 - [195.Tenth Line](/195.tenth_line.md)
+- [196.Delete Duplicate Emails](/196.delete_duplicate_emails.md)
 - [202.Happy Number](/202.happy_number.md)
 - [206.Reverse Linked List](/206.reverse_linked_list.md)
 - [225.Implement Stack Using Queues](/225.implement_stack_using_queues.md)
