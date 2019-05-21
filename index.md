@@ -60,6 +60,7 @@ Leetcode Index
 - [496.Next Greater Element I](/496.next_greater_element_i.md)
 - [500.Keyboard Row](/500.keyboard_row.md)
 - [509.Fibonacci Number](/509.fibonacci_number.md)
+- [520.Detect Capital](/520.detect_capital.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
 - [530.Minimum Absolute Difference in BST](/530.minimum_absolute_difference_in_bst.md)
 - [538.Convert BST to Greater Tree](/538.convert_bst_to_greater_tree.md)
