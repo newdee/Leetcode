@@ -89,6 +89,7 @@ Leetcode Index
 - [762.Prime Number of Set Bits in Binary Representation](/762.prime_number_of_set_bits_in_binary_representation.md)
 - [766.Toeplitz Matrix](/766.toeplitz_matrix.md)
 - [771.Jewels and Stones](/771.jewels_and_stones.md)
+- [783.Minimum Distance Between BST Nodes](/783.minimum_distance_between_bst_nodes.md)
 - [784.Letter Case Permutation](/784.letter_case_permutation.md)
 - [788.Rotated Digits](/788.rotated_digits.md)
 - [804.Unique Morse Code Words](/804.unique_morse_code_words.md)
