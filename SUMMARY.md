@@ -54,6 +54,7 @@ Leetcode Index
 - [429.N Ary Tree Level Order Traversal](/429.n_ary_tree_level_order_traversal.md)
 - [438.Find All Anagrams in a String](/438.find_all_anagrams_in_a_string.md)
 - [447.Number of Boomerangs](/447.number_of_boomerangs.md)
+- [453.Minimum Moves to Equal Array Elements](/453.minimum_moves_to_equal_array_elements.md)
 - [461.Hamming Distance](/461.hamming_distance.md)
 - [463.Island Perimeter](/463.island_perimeter.md)
 - [476.Number Complement](/476.number_complement.md)
