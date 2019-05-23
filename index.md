@@ -40,6 +40,7 @@ Leetcode Index
 - [242.Valid Anagram](/242.valid_anagram.md)
 - [257.Binary Tree Paths](/257.binary_tree_paths.md)
 - [258.Add Digits](/258.add_digits.md)
+- [268.Missing Number](/268.missing_number.md)
 - [290.Word Pattern](/290.word_pattern.md)
 - [282.Nim Game](/292.nim_game.md)
 - [303.Range Sum Query Immutable](/303.range_sum_query_immutable.md)
