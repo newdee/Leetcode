@@ -5,6 +5,7 @@ Leetcode Index
 - [20.Valid Parentheses](/20.valid_parentheses.md)
 - [21.Merge Two Sorted Lists](/21.merge_two_sorted_lists.md)
 - [27.Remove Element](/27.remove_element.md)
+- [38.Count and Say](/38.count_and_say.md)
 - [66.Plus One](/66.plus_one.md)
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
 - [104.Maximum Depth of Binary Tree](/104.maximum_depth_of_binary_tree.md)
