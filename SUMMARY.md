@@ -164,4 +164,5 @@ Leetcode Index
 - [1030.Matrix Cells in Distance Order](/1030.matrix_cells_in_distance_order.md)
 - [1041.Robot Bounded in Circle](/1041.robot_bounded_in_circle.md)
 - [1042.Flower Planting with no Adjacent](/1042.flower_planting_with_no_adjacent.md)
+- [1046.Last Stone Weight](/1046.last_stone_weight.md)
 - [ByteDance](/bytedance.md)
