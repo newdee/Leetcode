@@ -65,6 +65,7 @@ Leetcode Index
 - [485.Max Consecutive Ones](/485.max_consecutive_ones.md)
 - [496.Next Greater Element I](/496.next_greater_element_i.md)
 - [500.Keyboard Row](/500.keyboard_row.md)
+- [506.Relative Ranks](/506.relative_ranks.md)
 - [509.Fibonacci Number](/509.fibonacci_number.md)
 - [520.Detect Capital](/520.detect_capital.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
