@@ -23,6 +23,7 @@ Leetcode Index
 - [140.Word Break II](/140.word_break_ii.md)
 - [141.Linked List Cycle](/141.linked_list_cycle.md)
 - [155.Min Stack](/155.min_stack.md)
+- [167.Two Sum II- Input Array is Sorted](/197.two_sum_ii_input_array_is_sorted.md)
 - [169.Majority Element](/169.majority_element.md)
 - [171.Excel Sheet Coulmn Number](/171.excel_sheet_column_number.md)
 - [172.Factorial Trailing Zeroes](/172.factorial_trailing_zeroes.md)
