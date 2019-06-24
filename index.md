@@ -94,6 +94,7 @@ Leetcode Index
 - [690.Employee Importance](/690.employee_importance.md)
 - [693.Binary Number with Alternating Bits](/693.binary_number_with_alternating_bits.md)
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
+- [704.Binary Search](/704.binary_search.md)
 - [705.Design Hashset](/705.design_hashset.md)
 - [706.Design Hashmap](/706.design_hashmap.md)
 - [709.To Lower Case](/709.to_lower_case.md)
