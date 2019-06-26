@@ -145,6 +145,7 @@ Leetcode Index
 - [883.Projection Area of 3D Shapes](/883.projection_area_of_3d_shapes.md)
 - [884.Uncommon Words from Two Sentences](/884.uncommon_words_from_two_sentences.md)
 - [887.Super Egg Drop](/887.super_egg_drop.md)
+- [888.Fair Candy Swap](/888.fair_candy_swap.md)
 - [892.Surface Area of 3D Shapes](/892.surface_area_of_3d_shapes.md)
 - [893.Groups of Special Equivalent Strings](/893.groups_of_special_equivalent_strings.md)
 - [896.monotonic array](/896.monotonic_array.md)
