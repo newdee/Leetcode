@@ -57,6 +57,7 @@ Leetcode Index
 - [374.Guess Number Higher or Lower](/374.guess_number_higher_or_lower.md)
 - [383.Ransom Note](/383.ransom_note.md)
 - [387.First Unique Character in a String](/387.first_unique_character_in_a_string.md)
+- [401.Binary Watch](/401.binary_watch.md)
 - [404.Sum of Left Leaves](/404.sum_of_left_leaves.md)
 - [409.Longest Palindrome](/409.longest_palindrome.md)
 - [412.Fizz Buzz](/412.fizz_buzz.md)
