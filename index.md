@@ -75,6 +75,7 @@ Leetcode Index
 - [476.Number Complement](/476.number_complement.md)
 - [482.License Key Formatting](/482.license_key_formatting.md)
 - [485.Max Consecutive Ones](/485.max_consecutive_ones.md)
+- [492.Construct the Rectangle](/492.construct_the_rectangle.md)
 - [496.Next Greater Element I](/496.next_greater_element_i.md)
 - [500.Keyboard Row](/500.keyboard_row.md)
 - [506.Relative Ranks](/506.relative_ranks.md)
