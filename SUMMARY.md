@@ -193,5 +193,6 @@ Leetcode Index
 - [1042.Flower Planting with no Adjacent](/1042.flower_planting_with_no_adjacent.md)
 - [1046.Last Stone Weight](/1046.last_stone_weight.md)
 - [1089.Duplicate Zeros](/1089.duplicate_zeros.md)
+- [1013.Partition Array Into Three Parts with Equal Sum](/1013.partition_array_into_three_parts_with_equal_sum.md)
 - [1103.Distribute Candies to People](/1103.distribute_candies_to_people.md)
 - [ByteDance](/bytedance.md)
