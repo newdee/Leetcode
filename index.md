@@ -122,6 +122,7 @@ Leetcode Index
 - [783.Minimum Distance Between BST Nodes](/783.minimum_distance_between_bst_nodes.md)
 - [784.Letter Case Permutation](/784.letter_case_permutation.md)
 - [788.Rotated Digits](/788.rotated_digits.md)
+- [796.Rotate String](/796.rotate_string.md)
 - [804.Unique Morse Code Words](/804.unique_morse_code_words.md)
 - [806.Number of Lines to Write String](/806.number_of_lines_to_write_string.md)
 - [811.Subdomain Visit Count](/811.subdomain_visit_count.md)
