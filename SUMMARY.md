@@ -178,6 +178,7 @@ Leetcode Index
 - [976.Largest Perimeter Triangle](/976.largest_perimeter_triangle.md)
 - [977.Squares of a Sorted Array](/977.squares_of_a_sorted_array.md)
 - [985.Sum of Even Numbers After Queries](/985.sum_of_even_numbers_after_queries.md)
+- [993.Cousins in Binary Tree](/993.cousins_in_binary_tree.md)
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [1002.Find Common Characters](/1002.find_common_characters.md)
 - [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
