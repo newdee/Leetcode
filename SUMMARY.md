@@ -136,6 +136,7 @@ Leetcode Index
 - [832,Flipping an Image](/832.flipping_an_image.md)
 - [833.Find And Replace in String](/833.find_and_replace_in_string.md)
 - [835,Image Overlap](/835.image_overlap.md)
+- [844.Backspace String Compare](/844.backspace_string_compare.md)
 - [848.Shifting Letters](/848.shifting_letters.md)
 - [849.Maximize Distance to Closest Person](/849.maximize_distance_to_closest_person.md)
 - [852.Peak Index in A Mountain Array](/852.peak_index_in_a_mountain_array.md)
