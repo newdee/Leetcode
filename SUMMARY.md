@@ -16,6 +16,7 @@ Leetcode Index
 - [101.Symmetric Tree](/101.symmetric_tree.md)
 - [110.Balanced Binary Tree](/110.balanced_binary_tree.md)
 - [111.Minimum Depth of Binary Tree](/111.minimum_depth_of_binary_tree.md)
+- [112.Path Sum](/112.path_sum.md)
 - [118.Pascals Triangle](/118.pascals_triangle.md)
 - [119.Pascals Triangle II](/119.pascals_triangle_ii.md)
 - [121.Best Time to Buy and Sell Stock](/121.best_time_to_buy_and_sell_stock.md)
