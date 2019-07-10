@@ -100,6 +100,7 @@ Leetcode Index
 - [590.N Ary Tree Postorder Traversal](/590.n_ary_tree_postorder_traversal.md)
 - [595.Big Countires](/595.big_countries.md)
 - [598.Range Addition II](/598.range_addition_ii.md)
+- [599.Minimum Index of Two Lists](/599.minimum_index_of_two_lists.md)
 - [606.Construct String from Binary Tree](/606.construct_string_from_binary_tree.md)
 - [617.Merge Two Binary Trees](/617.merge_two_binary_trees.md)
 - [620.Not Boring Movies](/620.not_boring_movies.md)
