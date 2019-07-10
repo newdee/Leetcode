@@ -8,6 +8,7 @@ Leetcode Index
 - [38.Count and Say](/38.count_and_say.md)
 - [66.Plus One](/66.plus_one.md)
 - [67.Add Binary](/67.add_binary.md)
+- [83.Remove Duplicates from Sorted List](/83.remove_duplicates_from_sorted_list.md)
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
 - [104.Maximum Depth of Binary Tree](/104.maximum_depth_of_binary_tree.md)
 - [107.Binary Tree Level Order Traversal II](/107.binary_tree_level_order_traversal_ii.md)
