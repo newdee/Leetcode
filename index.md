@@ -204,4 +204,5 @@ Leetcode Index
 - [1103.Distribute Candies to People](/1103.distribute_candies_to_people.md)
 - [1114.Print in Order](/1114.print_in_order.md)
 - [1115.Print FooBar Alternately](/1115.print_foobar_alternately.md)
+- [1116.Print Zero Even Odd](/1116.print_zero_even_odd.md)
 - [ByteDance](/bytedance.md)
