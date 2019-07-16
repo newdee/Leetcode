@@ -115,6 +115,7 @@ Leetcode Index
 - [682.Baseball Game](/682.baseball_game.md)
 - [690.Employee Importance](/690.employee_importance.md)
 - [693.Binary Number with Alternating Bits](/693.binary_number_with_alternating_bits.md)
+- [696.Count Binary Substring](/696.count_binary_string.md)
 - [697.Degree of an Array](/697.degree_of_an_array.md)
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
 - [704.Binary Search](/704.binary_search.md)
