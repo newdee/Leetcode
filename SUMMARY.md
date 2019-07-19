@@ -95,6 +95,7 @@ Leetcode Index
 - [530.Minimum Absolute Difference in BST](/530.minimum_absolute_difference_in_bst.md)
 - [538.Convert BST to Greater Tree](/538.convert_bst_to_greater_tree.md)
 - [541.Reverse String II](/541.reverse_string_ii.md)
+- [543.Diameter of Binary Tree](/543.diameter_of_binary_tree.md)
 - [551.Student Attendace Record I](/551.student_attendance_record_i.md)
 - [557.Reverse Words in a String](/557.reverse_words_in_a_string.md)
 - [559.Maxmium Depth of N Ary Tree](/559.maxmium_depth_of_n_ary_tree.md)
