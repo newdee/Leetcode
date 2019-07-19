@@ -195,6 +195,7 @@ Leetcode Index
 - [977.Squares of a Sorted Array](/977.squares_of_a_sorted_array.md)
 - [985.Sum of Even Numbers After Queries](/985.sum_of_even_numbers_after_queries.md)
 - [993.Cousins in Binary Tree](/993.cousins_in_binary_tree.md)
+- [997.Find the Town Judge](/997.find_the_town_judge.md)
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [1002.Find Common Characters](/1002.find_common_characters.md)
 - [1005.Maximise Sum of Array after K Negations](/1005.maximise_sum_of_array_after_k_negations.md)
