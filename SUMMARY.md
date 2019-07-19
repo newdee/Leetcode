@@ -43,6 +43,7 @@ Leetcode Index
 - [195.Tenth Line](/195.tenth_line.md)
 - [196.Delete Duplicate Emails](/196.delete_duplicate_emails.md)
 - [202.Happy Number](/202.happy_number.md)
+- [205.Isomorphic Strings](/205.isomorphic_strings.md)
 - [206.Reverse Linked List](/206.reverse_linked_list.md)
 - [217.Contains Duplicate](/217.contains_duplicate.md)
 - [225.Implement Stack Using Queues](/225.implement_stack_using_queues.md)
