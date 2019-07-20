@@ -123,6 +123,7 @@ Leetcode Index
 - [657.Robot Return to Origin](/657.robot_return_to_origin.md)
 - [661.Image Smoother](/661.image_smoother.md)
 - [669.Trim a Binary Search Tree](/669.trim_a_binary_search_tree.md)
+- [671.Second Minimum Node in a Binary Tree ](/671.second_minimum_node_in_a_binary_tree.md)
 - [682.Baseball Game](/682.baseball_game.md)
 - [690.Employee Importance](/690.employee_importance.md)
 - [693.Binary Number with Alternating Bits](/693.binary_number_with_alternating_bits.md)
