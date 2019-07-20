@@ -4,6 +4,7 @@ Leetcode Index
 - [13.Roman to Integer](/13.roman_to_integer.md)
 - [20.Valid Parentheses](/20.valid_parentheses.md)
 - [21.Merge Two Sorted Lists](/21.merge_two_sorted_lists.md)
+- [26.Remove Duplicates from Sorted Array](/26.remove_duplicates_from_sorted_array.md)
 - [27.Remove Element](/27.remove_element.md)
 - [35.Search Insert Position](/35.search_insert_position.md)
 - [38.Count and Say](/38.count_and_say.md)
