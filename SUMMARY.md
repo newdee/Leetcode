@@ -43,6 +43,7 @@ Leetcode Index
 - [191.Number of 1 Bits](/191.number_of_1_bits.md)
 - [195.Tenth Line](/195.tenth_line.md)
 - [196.Delete Duplicate Emails](/196.delete_duplicate_emails.md)
+- [197.Rising Temperature](/197.rising_temperature.md)
 - [202.Happy Number](/202.happy_number.md)
 - [205.Isomorphic Strings](/205.isomorphic_strings.md)
 - [206.Reverse Linked List](/206.reverse_linked_list.md)
