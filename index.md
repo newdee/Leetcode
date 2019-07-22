@@ -139,6 +139,7 @@ Leetcode Index
 - [720.Longest Word in Dictionary](/720.longest_word_in_dictionary.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
 - [733.Flood Fill](/733.flood_fill.md)
+- [746.Min Cost Climbing Stairs](/746.min_cost_climbing_stairs.md)
 - [748.Shortest Completing Word](/748.shortest_completing_word.md)
 - [762.Prime Number of Set Bits in Binary Representation](/762.prime_number_of_set_bits_in_binary_representation.md)
 - [766.Toeplitz Matrix](/766.toeplitz_matrix.md)
