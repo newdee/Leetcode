@@ -135,6 +135,7 @@ Leetcode Index
 - [705.Design Hashset](/705.design_hashset.md)
 - [706.Design Hashmap](/706.design_hashmap.md)
 - [709.To Lower Case](/709.to_lower_case.md)
+- [717.1 Bit and 2 Bit Characters](/717.1_bit_and_2_bit_characters.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
 - [733.Flood Fill](/733.flood_fill.md)
 - [748.Shortest Completing Word](/748.shortest_completing_word.md)
