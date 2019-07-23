@@ -194,6 +194,7 @@ Leetcode Index
 - [916.Word Subsets](/916.word_subsets.md)
 - [917.Reverse Only Letters](/917.reverse_only_letters.md)
 - [922.Sort Array by Parity II](/922.sort_array_by_parity_ii.md)
+- [925.Long Pressed Name](/925.long_pressed_name.md)
 - [929.Unique Email Address](/929.unique_email_address.md)
 - [937.Reorder Log Files](/937.reorder_log_files.md)
 - [938.Range Sum of BST](/938.range_sum_of_bst.md)
