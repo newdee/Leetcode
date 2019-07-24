@@ -208,6 +208,7 @@ Leetcode Index
 - [976.Largest Perimeter Triangle](/976.largest_perimeter_triangle.md)
 - [977.Squares of a Sorted Array](/977.squares_of_a_sorted_array.md)
 - [985.Sum of Even Numbers After Queries](/985.sum_of_even_numbers_after_queries.md)
+- [989.Add to Array-Form of Integer](/989.add_to_array_form_of_integer.md)
 - [993.Cousins in Binary Tree](/993.cousins_in_binary_tree.md)
 - [994.Rotting Oranges](/994.rotting_oranges.md)
 - [997.Find the Town Judge](/997.find_the_town_judge.md)
