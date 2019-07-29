@@ -115,6 +115,7 @@ Leetcode Index
 - [575.Distribute Candies](/575.distribute_candies.md)
 - [589.N Ary Tree Preorder Traversal](/589.n_ary_tree_preorder_traversal.md)
 - [590.N Ary Tree Postorder Traversal](/590.n_ary_tree_postorder_traversal.md)
+- [594.Longest Harmonious Subsequence](/594.longest_harmonious_subsequence.md)
 - [595.Big Countires](/595.big_countries.md)
 - [598.Range Addition II](/598.range_addition_ii.md)
 - [599.Minimum Index of Two Lists](/599.minimum_index_of_two_lists.md)
