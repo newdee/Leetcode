@@ -86,6 +86,7 @@ Leetcode Index
 - [448.Find All Numbers Disappeared in an Array](/448.find_all_numbers_disappeared_in_an_array.md)
 - [453.Minimum Moves to Equal Array Elements](/453.minimum_moves_to_equal_array_elements.md)
 - [455.Assign Cookies](/455.assign_cookies.md)
+- [459.Repeated Substring Pattern](/459.repeated_substring_pattern.md)
 - [461.Hamming Distance](/461.hamming_distance.md)
 - [463.Island Perimeter](/463.island_perimeter.md)
 - [476.Number Complement](/476.number_complement.md)
