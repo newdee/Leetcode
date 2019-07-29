@@ -94,6 +94,7 @@ Leetcode Index
 - [492.Construct the Rectangle](/492.construct_the_rectangle.md)
 - [496.Next Greater Element I](/496.next_greater_element_i.md)
 - [500.Keyboard Row](/500.keyboard_row.md)
+- [501.Find Mode in Binary Tree](/501.find_mode_in_binary_search_tree.md)
 - [504.Base 7](/504.base_7.md)
 - [506.Relative Ranks](/506.relative_ranks.md)
 - [509.Fibonacci Number](/509.fibonacci_number.md)
