@@ -112,6 +112,7 @@ Leetcode Index
 - [561.Array Partition I](/561.array_partiton_i.md)
 - [563.Binary Tree Tilt](/563.binary_tree_tilt.md)
 - [566.Reshape the Matrix](/566.reshape_the_matrix.md)
+- [572.Subtree of Another Tree](/572.subtree_of_another_tree.md)
 - [575.Distribute Candies](/575.distribute_candies.md)
 - [589.N Ary Tree Preorder Traversal](/589.n_ary_tree_preorder_traversal.md)
 - [590.N Ary Tree Postorder Traversal](/590.n_ary_tree_postorder_traversal.md)
