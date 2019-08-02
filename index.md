@@ -139,6 +139,7 @@ Leetcode Index
 - [696.Count Binary Substring](/696.count_binary_string.md)
 - [697.Degree of an Array](/697.degree_of_an_array.md)
 - [700.Search in a Binary Search Tree](/700.search_in_a_binary_search_tree.md)
+- [703.Kth Largest Element in a Stream](/703.kth_largest_element_in_a_stream.md)
 - [704.Binary Search](/704.binary_search.md)
 - [705.Design Hashset](/705.design_hashset.md)
 - [706.Design Hashmap](/706.design_hashmap.md)
