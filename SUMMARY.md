@@ -44,6 +44,7 @@ Leetcode Index
 - [195.Tenth Line](/195.tenth_line.md)
 - [196.Delete Duplicate Emails](/196.delete_duplicate_emails.md)
 - [197.Rising Temperature](/197.rising_temperature.md)
+- [198.House Robber](/198.house_robber.md)
 - [202.Happy Number](/202.happy_number.md)
 - [203.Remove Linked List Elements](/203.remove_linked_list_elements.md)
 - [205.Isomorphic Strings](/205.isomorphic_strings.md)
