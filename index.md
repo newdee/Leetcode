@@ -68,7 +68,7 @@ Leetcode Index
 - [344.Reverse String](/344.reverse_string.md)
 - [345.Reverse Vowels of a String](/345.reverse_vowels_of_a_string.md)
 - [349.Intersection of Two Arrays](/349.intersection_of_two_arrays.md)
-- [349.Intersection of Two Arrays II](/350.intersection_of_two_arrays_ii.md)
+- [350.Intersection of Two Arrays II](/350.intersection_of_two_arrays_ii.md)
 - [367.Valid Perfect Square](/367.valid_perfect_square.md)
 - [371.Sum of Two Integers](/371.sum_of_two_integers.md)
 - [374.Guess Number Higher or Lower](/374.guess_number_higher_or_lower.md)
