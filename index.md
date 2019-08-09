@@ -12,6 +12,7 @@ Leetcode Index
 - [53.Maximum Subarray](/53.maximum_subarray.md)
 - [66.Plus One](/66.plus_one.md)
 - [67.Add Binary](/67.add_binary.md)
+- [69.Sqrt](/69.sqrt.md)
 - [70.Climbing Stairs](/70.climbing_stairs.md)
 - [83.Remove Duplicates from Sorted List](/83.remove_duplicates_from_sorted_list.md)
 - [88.Merge Sorted Array](/88.merge_sorted_array.md)
