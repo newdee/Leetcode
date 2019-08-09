@@ -123,6 +123,7 @@ Leetcode Index
 - [590.N Ary Tree Postorder Traversal](/590.n_ary_tree_postorder_traversal.md)
 - [594.Longest Harmonious Subsequence](/594.longest_harmonious_subsequence.md)
 - [595.Big Countires](/595.big_countries.md)
+- [596.Classes More Than 5 Students](/596.classes_more_than_5_students.md)
 - [598.Range Addition II](/598.range_addition_ii.md)
 - [599.Minimum Index of Two Lists](/599.minimum_index_of_two_lists.md)
 - [606.Construct String from Binary Tree](/606.construct_string_from_binary_tree.md)
