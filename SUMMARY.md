@@ -135,6 +135,7 @@ Leetcode Index
 - [627.Swap Salary](/627.swap_salary.md)
 - [628.Maximum Product of Three Numbers](/628.maximum_product_of_three_numbers.md)
 - [637.Average of Levels in Binary Tree](/637.average_of_levels_in_binary_tree.md)
+- [643.Maximum Average Subarray I](/643.maximum_average_subarray_i.md)
 - [645.Set Mismatch](/645.set_mismatch.md)
 - [653.Two Sum IV - Input is a BST](/653.two_sum_iv_input_is_a_bst.md)
 - [657.Robot Return to Origin](/657.robot_return_to_origin.md)
