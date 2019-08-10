@@ -154,6 +154,7 @@ Leetcode Index
 - [709.To Lower Case](/709.to_lower_case.md)
 - [717.1 Bit and 2 Bit Characters](/717.1_bit_and_2_bit_characters.md)
 - [720.Longest Word in Dictionary](/720.longest_word_in_dictionary.md)
+- [724.Find Pivot Index](/724.find_pivot_index.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
 - [733.Flood Fill](/733.flood_fill.md)
 - [744.Find Smallest Letter Greater Than Target ](/744.find_smallest_letter_greater_than_target.md)
