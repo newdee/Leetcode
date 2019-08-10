@@ -106,6 +106,7 @@ Leetcode Index
 - [501.Find Mode in Binary Tree](/501.find_mode_in_binary_search_tree.md)
 - [504.Base 7](/504.base_7.md)
 - [506.Relative Ranks](/506.relative_ranks.md)
+- [507.Perfect Number](/507.perfect_number.md)
 - [509.Fibonacci Number](/509.fibonacci_number.md)
 - [520.Detect Capital](/520.detect_capital.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
