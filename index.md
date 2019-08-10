@@ -88,6 +88,7 @@ Leetcode Index
 - [437.Path Sum III](/437.path_sum_iii.md)
 - [438.Find All Anagrams in a String](/438.find_all_anagrams_in_a_string.md)
 - [441.Arranging Coins](/441.arranging_coins.md)
+- [443.String Compression](/443.string_compression.md)
 - [447.Number of Boomerangs](/447.number_of_boomerangs.md)
 - [448.Find All Numbers Disappeared in an Array](/448.find_all_numbers_disappeared_in_an_array.md)
 - [453.Minimum Moves to Equal Array Elements](/453.minimum_moves_to_equal_array_elements.md)
