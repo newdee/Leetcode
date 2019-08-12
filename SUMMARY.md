@@ -66,6 +66,7 @@ Leetcode Index
 - [258.Add Digits](/258.add_digits.md)
 - [263.Ugly Numbers](/263.ugly_numbers.md)
 - [268.Missing Number](/268.missing_number.md)
+- [278.First Bad Version](/278.first_bad_version.md)
 - [290.Word Pattern](/290.word_pattern.md)
 - [282.Nim Game](/292.nim_game.md)
 - [303.Range Sum Query Immutable](/303.range_sum_query_immutable.md)
