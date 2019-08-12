@@ -260,4 +260,5 @@ Leetcode Index
 - [1115.Print FooBar Alternately](/1115.print_foobar_alternately.md)
 - [1116.Print Zero Even Odd](/1116.print_zero_even_odd.md)
 - [1117.Building H2O](/1117.building_h2o.md)
+- [1128.Number of Equivalent Domino Pairs](/1128.number_of_equivalent_domino_pairs.md)
 - [ByteDance](/bytedance.md)
