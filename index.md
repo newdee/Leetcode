@@ -116,6 +116,7 @@ Leetcode Index
 - [520.Detect Capital](/520.detect_capital.md)
 - [521.Longest Uncommon Subsequence I](/521.longest_uncommon_subsequence_i.md)
 - [530.Minimum Absolute Difference in BST](/530.minimum_absolute_difference_in_bst.md)
+- [532.K-diff Pairs in an Array](/532.k-diff_pairs_in_an_array.md)
 - [538.Convert BST to Greater Tree](/538.convert_bst_to_greater_tree.md)
 - [541.Reverse String II](/541.reverse_string_ii.md)
 - [543.Diameter of Binary Tree](/543.diameter_of_binary_tree.md)
