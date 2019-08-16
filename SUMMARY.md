@@ -91,6 +91,7 @@ Leetcode Index
 - [415.Add Strings](/415.add_strings.md)
 - [427.Construct Quad Tree](/427.construct_quad_tree.md)
 - [429.N Ary Tree Level Order Traversal](/429.n_ary_tree_level_order_traversal.md)
+- [434.Number of Segments in a String](/434.number_of_segments_in_a_string.md)
 - [437.Path Sum III](/437.path_sum_iii.md)
 - [438.Find All Anagrams in a String](/438.find_all_anagrams_in_a_string.md)
 - [441.Arranging Coins](/441.arranging_coins.md)
