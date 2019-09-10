@@ -225,7 +225,7 @@ Leetcode Index
 - [908.Smallest Range I](/908.smallest_range_i.md)
 - [910.Smallest Range II](910.smallest_range_ii.md)
 - [913.Cat and Mouse](/913.cat_and_mouse.md )
-- [914.of a Kind in a Deck of Cards](/914.of_a_kind_in_a_deck_of_cards.md)
+- [914.X of a Kind in a Deck of Cards](/914.X_of_a_kind_in_a_deck_of_cards.md)
 - [915.Partition Array into Disjoint Intervals](/915.partition_array_into_disjoint_intervals.md)
 - [916.Word Subsets](/916.word_subsets.md)
 - [917.Reverse Only Letters](/917.reverse_only_letters.md)
