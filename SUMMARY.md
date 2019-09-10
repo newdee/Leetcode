@@ -11,6 +11,7 @@ Leetcode Index
 - [35.Search Insert Position](/35.search_insert_position.md)
 - [38.Count and Say](/38.count_and_say.md)
 - [53.Maximum Subarray](/53.maximum_subarray.md)
+- [58.Length of Last Word](/58.length_of_last_word.md)
 - [66.Plus One](/66.plus_one.md)
 - [67.Add Binary](/67.add_binary.md)
 - [69.Sqrt](/69.sqrt.md)
