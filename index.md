@@ -143,6 +143,7 @@ Leetcode Index
 - [620.Not Boring Movies](/620.not_boring_movies.md)
 - [627.Swap Salary](/627.swap_salary.md)
 - [628.Maximum Product of Three Numbers](/628.maximum_product_of_three_numbers.md)
+- [633.Sum of Square Numbers](/633.sum_of_square_numbers.md)
 - [637.Average of Levels in Binary Tree](/637.average_of_levels_in_binary_tree.md)
 - [643.Maximum Average Subarray I](/643.maximum_average_subarray_i.md)
 - [645.Set Mismatch](/645.set_mismatch.md)
