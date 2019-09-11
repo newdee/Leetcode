@@ -52,6 +52,7 @@ Leetcode Index
 - [198.House Robber](/198.house_robber.md)
 - [202.Happy Number](/202.happy_number.md)
 - [203.Remove Linked List Elements](/203.remove_linked_list_elements.md)
+- [204.Count Primes](/204.count_primes.md)
 - [205.Isomorphic Strings](/205.isomorphic_strings.md)
 - [206.Reverse Linked List](/206.reverse_linked_list.md)
 - [217.Contains Duplicate](/217.contains_duplicate.md)
