@@ -280,5 +280,6 @@ Leetcode Index
 - [1116.Print Zero Even Odd](/1116.print_zero_even_odd.md)
 - [1117.Building H2O](/1117.building_h2o.md)
 - [1128.Number of Equivalent Domino Pairs](/1128.number_of_equivalent_domino_pairs.md)
+- [1169.Invalid Transactions](/1169.invalid_transactions.md)
 - [1176.Diet Plan Performance](/1176.diet_plan_performance.md)
 - [ByteDance](/bytedance.md)
