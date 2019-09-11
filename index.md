@@ -208,6 +208,7 @@ Leetcode Index
 - [852.Peak Index in A Mountain Array](/852.peak_index_in_a_mountain_array.md)
 - [853.Car Fleet](/853.car_fleet.md)
 - [855.Exam Room](/855.exam_room.md)
+- [859.Buddy Strings](/859.buddy_strings.md)
 - [860.Lemonade Change](/860.lemonade_change.md)
 - [864.Shortest Path to Get All Keys](/864.shortest_path_to_get_all_keys.md)
 - [865.Smallest Subtree with all the Deepest Nodes](/865.smallest_subtree_with_all_the_deepest_nodes.md)
