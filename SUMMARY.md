@@ -105,6 +105,7 @@ Leetcode Index
 - [459.Repeated Substring Pattern](/459.repeated_substring_pattern.md)
 - [461.Hamming Distance](/461.hamming_distance.md)
 - [463.Island Perimeter](/463.island_perimeter.md)
+- [475.Heaters](/475.heaters.md)
 - [476.Number Complement](/476.number_complement.md)
 - [482.License Key Formatting](/482.license_key_formatting.md)
 - [485.Max Consecutive Ones](/485.max_consecutive_ones.md)
