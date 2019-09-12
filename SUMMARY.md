@@ -250,6 +250,7 @@ Leetcode Index
 - [942.Di String Match](/942.di_string_match.md)
 - [944.Delete Column to Make Sorted](/944.delete_column_to_make_sorted.md)
 - [949.Largest Time For Given Digits](/949.largest_time_for_given_digits.md)
+- [950.Reveal Cards in Increasing Order](/950.reveal_cards_in_increasing_order.md)
 - [953.Verifying an Alien Dictionary](/953.verifying_an_alien_dictionary.md)
 - [961.N Repeated Element in Size 2N Array](/961.n_repeated_element_in_size_2n_array.md)
 - [965.Univalued Binary Tree](/965.univalued_binary_tree.md)
