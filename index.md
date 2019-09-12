@@ -193,6 +193,7 @@ Leetcode Index
 - [796.Rotate String](/796.rotate_string.md)
 - [804.Unique Morse Code Words](/804.unique_morse_code_words.md)
 - [806.Number of Lines to Write String](/806.number_of_lines_to_write_string.md)
+- [807.Max Increase to Keep City Skyline](/807.max_increase_to_keep_city_skyline.md)
 - [811.Subdomain Visit Count](/811.subdomain_visit_count.md)
 - [812.Largest Triangle Area](/812.largest_triangle_area.md)
 - [819.Most Common Word](/819.most_common_word.md)
