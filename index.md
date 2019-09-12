@@ -170,6 +170,7 @@ Leetcode Index
 - [704.Binary Search](/704.binary_search.md)
 - [705.Design Hashset](/705.design_hashset.md)
 - [706.Design Hashmap](/706.design_hashmap.md)
+- [707.Design Linked List](/707.design_linked_list.md)
 - [709.To Lower Case](/709.to_lower_case.md)
 - [717.1 Bit and 2 Bit Characters](/717.1_bit_and_2_bit_characters.md)
 - [720.Longest Word in Dictionary](/720.longest_word_in_dictionary.md)
