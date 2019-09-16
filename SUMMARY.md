@@ -76,6 +76,7 @@ Leetcode Index
 - [290.Word Pattern](/290.word_pattern.md)
 - [282.Nim Game](/292.nim_game.md)
 - [303.Range Sum Query Immutable](/303.range_sum_query_immutable.md)
+- [338.Counting Bits](/338.counting_bits.md)
 - [342.Power of Four](/342.power_of_four.md)
 - [344.Reverse String](/344.reverse_string.md)
 - [345.Reverse Vowels of a String](/345.reverse_vowels_of_a_string.md)
