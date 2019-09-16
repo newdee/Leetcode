@@ -154,6 +154,7 @@ Leetcode Index
 - [643.Maximum Average Subarray I](/643.maximum_average_subarray_i.md)
 - [645.Set Mismatch](/645.set_mismatch.md)
 - [653.Two Sum IV - Input is a BST](/653.two_sum_iv_input_is_a_bst.md)
+- [654.Maximum Binary Tree](/654.maximum_binary_tree.md)
 - [657.Robot Return to Origin](/657.robot_return_to_origin.md)
 - [661.Image Smoother](/661.image_smoother.md)
 - [665.Non-Decreasing Array](/665.non-decreasing_array.md)
