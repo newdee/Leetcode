@@ -10,6 +10,7 @@ Leetcode Index
 - [28.Implement strStr()](/28.implement_strstr.md)
 - [35.Search Insert Position](/35.search_insert_position.md)
 - [38.Count and Say](/38.count_and_say.md)
+- [46.Permutations](/46.permutations.md)
 - [53.Maximum Subarray](/53.maximum_subarray.md)
 - [58.Length of Last Word](/58.length_of_last_word.md)
 - [59.Spiral Matrix II](/59.spiral_matrix_ii.md)
