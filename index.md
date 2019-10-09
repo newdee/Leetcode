@@ -271,6 +271,7 @@ Leetcode Index
 - [999.Available Captures for Rook](/999.available_captures_for_rook.md)
 - [1002.Find Common Characters](/1002.find_common_characters.md)
 - [1005.Maximise Sum of Array after K Negations](/1005.maximise_sum_of_array_after_k_negations.md)
+- [1008.Construct Binary Search Tree from Preorder Traversal](/1008.construct_binary_search_tree_from_preorder_traversal.md)
 - [1021.Remove Outermost Parentheses](/1021.remove_outermost_parentheses.md)
 - [1025.Divisor Game](/1025.divisor_game.md)
 - [1029.Tow City Scheduling](/1029.two_city_scheduling.md)
