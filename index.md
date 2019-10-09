@@ -221,6 +221,7 @@ Leetcode Index
 - [855.Exam Room](/855.exam_room.md)
 - [859.Buddy Strings](/859.buddy_strings.md)
 - [860.Lemonade Change](/860.lemonade_change.md)
+- [861.Score After Flipping Matrix](/861.score_after_flipping_matrix.md)
 - [864.Shortest Path to Get All Keys](/864.shortest_path_to_get_all_keys.md)
 - [865.Smallest Subtree with all the Deepest Nodes](/865.smallest_subtree_with_all_the_deepest_nodes.md)
 - [866.Prime Palindrome](/866.prime_palindrome.md)
