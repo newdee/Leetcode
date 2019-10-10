@@ -236,6 +236,7 @@ Leetcode Index
 - [888.Fair Candy Swap](/888.fair_candy_swap.md)
 - [892.Surface Area of 3D Shapes](/892.surface_area_of_3d_shapes.md)
 - [893.Groups of Special Equivalent Strings](/893.groups_of_special_equivalent_strings.md)
+- [894.All Possible Full Binary Trees](/894.all_possible_full_binary_trees.md)
 - [896.monotonic array](/896.monotonic_array.md)
 - [897.increasing order search tree](/897.increasing_order_search_tree.md)
 - [900.RLE Iterator](/900.rle_iterator.md)
