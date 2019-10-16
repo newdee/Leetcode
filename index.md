@@ -202,6 +202,7 @@ Leetcode Index
 - [807.Max Increase to Keep City Skyline](/807.max_increase_to_keep_city_skyline.md)
 - [811.Subdomain Visit Count](/811.subdomain_visit_count.md)
 - [812.Largest Triangle Area](/812.largest_triangle_area.md)
+- [814.Binary Tree Pruning](/814.binary_tree_pruning.md)
 - [819.Most Common Word](/819.most_common_word.md)
 - [821.Shortest Distance to a Character](/821.shortest_distance_to_a_character.md)
 - [824.Goat Latin](/824.goat_latin.md)
