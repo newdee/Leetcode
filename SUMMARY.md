@@ -302,5 +302,6 @@
 - [1128.Number of Equivalent Domino Pairs](/1128.number_of_equivalent_domino_pairs.md)
 - [1169.Invalid Transactions](/1169.invalid_transactions.md)
 - [1176.Diet Plan Performance](/1176.diet_plan_performance.md)
+- [1282.用户分组](/1282.group_the_people_given_the_group_size_they_belong_to.md)
 - [ByteDance](/bytedance.md)
 - [面试题 64](/qiu_12n_lcof.md)
