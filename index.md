@@ -303,5 +303,6 @@
 - [1169.Invalid Transactions](/1169.invalid_transactions.md)
 - [1176.Diet Plan Performance](/1176.diet_plan_performance.md)
 - [1282.用户分组](/1282.group_the_people_given_the_group_size_they_belong_to.md)
+- [1329.Sort the Matrix Diagonally](/1329.sort_the_matrix_diagonally.md)
 - [ByteDance](/bytedance.md)
 - [面试题 64](/qiu_12n_lcof.md)
