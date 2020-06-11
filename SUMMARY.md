@@ -190,6 +190,7 @@
 - [724.Find Pivot Index](/724.find_pivot_index.md)
 - [728.Self Dividing Numbers](/728.self_dividing_numbers.md)
 - [733.Flood Fill](/733.flood_fill.md)
+- [739.每日温度](/739.daliy-temperatures.md)
 - [744.Find Smallest Letter Greater Than Target](/744.find_smallest_letter_greater_than_target.md)
 - [746.Min Cost Climbing Stairs](/746.min_cost_climbing_stairs.md)
 - [747.Largest Number At Least Twice Of Others](/747.largest_number_at_least_twice_of_others.md)
